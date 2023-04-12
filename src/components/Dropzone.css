@@ -1,0 +1,21 @@
+
+
+
+
+.dropzone-div{
+
+    margin-top: 10%;
+    width: 30%;
+    min-height: 30vh;
+    padding: 50px;
+    border-radius: 25px;
+    border-style: dashed;
+    border: 5px dashed gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+}
